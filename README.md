@@ -21,12 +21,12 @@ A C# console application for managing tasks with features like adding, updating,
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone git@github.com:Tolstoyj/To-Do_Console_Application.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd HelloRider
+cd To-Do_Console_Application
 ```
 
 3. Build the project:
